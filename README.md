@@ -9,7 +9,8 @@
 
 效果截图
 -------
-
+![image](https://github.com/cross-screen/PHPCMS/blob/master/screenshots/phpcms1.png)
+![image](https://github.com/cross-screen/PHPCMS/blob/master/screenshots/phpcms2.png)
 
 
 使用方法
